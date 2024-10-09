@@ -12,8 +12,6 @@ MADE BY:
 1. Prakhar Kumar
 2. Ansh Goel
 3. Utkarsh Sharma
-4. Anshika Tomar
-5. Shivam
 
 ###########################################
 
